@@ -5,7 +5,7 @@ This repository is for understanding
 
 Includes:-
 
--commands
+-Commands
 -Tutorials
 - Videos
 
